@@ -1,6 +1,7 @@
 <h2> Hi there 👋, I'm Aviral Goel! </h2>
     
 [![Aviral Goel Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goelaviral/)
+[![Aviral's Itch.io](https://img.shields.io/static/v1?style=for-the-badge&message=Itch.io&color=FA5C5C&logo=Itch.io&logoColor=FFFFFF&label=)](https://aviralgoel.itch.io/)
 [![Aviral Goel Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@goelaviral)
 [![Aviral Goel Goodreads](https://img.shields.io/static/v1?style=for-the-badge&message=Goodreads&color=372213&logo=Goodreads&logoColor=FFFFFF&label=)](https://www.goodreads.com/user/show/11245948-aviral-goel)
 
