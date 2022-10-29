@@ -7,7 +7,7 @@
 
 <!-- This is using base64 encoded image. If you have a small image, you can upload the base64 version of it :D https://www.base64-image.de/ -->
 
-I'm an avid Game Developer and Software Engineer. I create games in Unity and Unreal Engine.
+I'm an avid Game Developer and Graphics Programmer. I create games in Unity and Unreal Engine.
 
 I'm here to help the world learn to code, do great things with *'anybody can learn anything'* philosphy, adventure lover and voracious reader.
 
