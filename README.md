@@ -11,7 +11,7 @@ I'm an avid Game Developer and Graphics Programmer in C and C++. I create games 
 
 ### Projects 📊
 
-1. Try Again (C# | Unity)** - [Youtube Demo](https://www.youtube.com/watch?v=Id0R-IruQTw) || [CameraScript Gist](https://gist.github.com/aviralgoel/ba882a0843360acf5653a216b429b9a5) || [CameraPanning Gist](https://gist.github.com/aviralgoel/d6ee3b01aac6e7688672947f894bdcc5)
+1. Try Again (C# | Unity) - [Youtube Demo](https://www.youtube.com/watch?v=Id0R-IruQTw) || [CameraScript Gist](https://gist.github.com/aviralgoel/ba882a0843360acf5653a216b429b9a5) || [CameraPanning Gist](https://gist.github.com/aviralgoel/d6ee3b01aac6e7688672947f894bdcc5)
 2. 2D Graphics Library (C | SDL)
 <img src="https://github.com/aviralgoel/3DRenderer/blob/master/MyProject/progress/ezgif.com-gif-maker(2).gif" width="240" height="140" />
 3. Batch Rendering in OpenGL (C++ | OpenGL)
