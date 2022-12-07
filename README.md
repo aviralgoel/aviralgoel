@@ -9,6 +9,8 @@
 
 I'm a graphics programmer and gameplay engineer. I learning OpenGL graphics API and also working on my own graphics library to reinforce my understanding of graphics programming concepts. 
 
+I am contributor at [ScratchAPixel.com](https://www.scratchapixel.com/), a graphics programming learning resource website.
+
 I enjoy playing cooperative video games like It Takes Two, Overcooked 2, Portal 2 and many more. 
 *Fun Fact: I played Division 1 Competitive TF2 as Medic!*
 
