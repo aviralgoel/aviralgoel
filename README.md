@@ -7,7 +7,13 @@
 
 <!-- This is using base64 encoded image. If you have a small image, you can upload the base64 version of it :D https://www.base64-image.de/ -->
 
-I'm an avid Game Developer and Graphics Programmer in C and C++. I create games in Unity and Unreal Engine.
+I'm a graphics programmer and gameplay engineer. I learning OpenGL graphics API and also working on my own graphics library to reinforce my understanding of graphics programming concepts. 
+
+I enjoy playing cooperative video games like It Takes Two, Overcooked 2, Portal 2 and many more. 
+*Fun Fact: I played Division 1 Competitive TF2 as Medic!*
+
+In the past, learnt how machines learn (ML), what are blockchains, taught how to code and founded a startup (then shut it down). 
+
 
 ### Projects 📊
 
