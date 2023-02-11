@@ -26,7 +26,7 @@ In the past, learnt how machines learn (ML), what are blockchains, taught how to
 1. Try Again (C# | Unity) - [Youtube Demo](https://www.youtube.com/watch?v=Id0R-IruQTw) || [CameraScript Gist](https://gist.github.com/aviralgoel/ba882a0843360acf5653a216b429b9a5) || [CameraPanning Gist](https://gist.github.com/aviralgoel/d6ee3b01aac6e7688672947f894bdcc5)
 <img src="https://user-images.githubusercontent.com/5007364/206230432-6b358225-5d88-4c40-921d-ed872b6330f1.png" width="240" height="140" />
 2.3D Avi Graphics Library (C | SDL) (https://github.com/aviralgoel/AviGL)
-<img src="https://github.com/aviralgoel/AviGL/blob/master/MyProject/progress/demo0.gif" width="240" height="140" />
+<img src="https://github.com/aviralgoel/AviGL/blob/master/MyProject/progress/demo.gif" width="240" height="140" />
 3. Batch Rendering in OpenGL (C++ | OpenGL) (https://github.com/aviralgoel/OpenGL)
 <img width="240" height="140" src="https://github.com/aviralgoel/Avirals-Graphics-Library/blob/main/1664963919759.gif">
 4. Multiplayer Snake Game (C# | Unity)
