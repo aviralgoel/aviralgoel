@@ -18,7 +18,7 @@ My gameplay engineering work involves working on Camera systems, kill logics (co
 I enjoy playing cooperative video games like It Takes Two, Overcooked 2, Portal 2 and many more. 
 *Fun Fact: I played Division 1 Competitive TF2 as Medic!*
 
-In the past, learnt how machines learn (ML), what are blockchains, taught how to code and founded a startup (then shut it down). 
+In the past, I've dived into Machine Learning, what are blockchains, taught how to code and founded a startup (then shut it down). 
 
 
 ### Projects 📊
