@@ -9,7 +9,9 @@ I'm a C and C++ programmer with proficiency in AMD's HIP as well as Nvidia's CUD
 
 At AMD, I work with the Machine Learning team to maintain the Composable Kernel library. My work focuses on Flash Attention and GEMM Optimizations. 
 
-In the past, I've worked on mobile graphics drivers at Samsung, San Jose, published games on Steam as part of my master's degree project and played competitive Team Fortress 2 medic.
+In the past, I've worked on mobile graphics drivers at Samsung, San Jose, published games on Steam as part of my master's degree project.
+
+I played competitive Team Fortress 2 as medic and still continue to do so :)
 
 ### Skills
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoSize=auto)
